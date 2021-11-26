@@ -1,7 +1,8 @@
-{
+{   
+    "inactive":"for security purpose",
     "AWS": {
-      "accessKeyId":"AKIASQBPA7KHO3COL25P",
-      "secretAccessKey":"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",
+      "accessKeyId":"AKIASQBPA7KHO3COL25P", 
+      "secretAccessKey":"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", 
       "region":"ap-south-1",
       "SenderEmailId":"<vermaatul9565@gmail.com>"
     },
